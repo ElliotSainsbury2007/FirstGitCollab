@@ -1,7 +1,0 @@
-Conbtributors:
-
-GitMaster
-
-ElliotTesco
-
-BenPen
